@@ -1,3 +1,7 @@
+Integrantes:
+Franklin Aldahir Portillo Flores
+Jeremias Neftaly Fuentes Mendezzzzzzzz
+
 Explicación del código
 
 Importaciones
