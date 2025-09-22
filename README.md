@@ -1,7 +1,20 @@
-Integrantes:
-Franklin Aldahir Portillo Flores
+# 📘 Calculadora de Promedio de Notas
 
-Jeremias Neftaly Fuentes Mendez
+##  Integrantes
+- Franklin Aldahir Portillo Flores  
+- Jeremias Neftaly Fuentes Méndez  
+
+##  Objetivo de la Actividad
+Desarrollar interfaces gráficas funcionales mediante el uso de la biblioteca *PyQt5 en Python*, aplicando los conocimientos de la librería y resolviendo un problema de la vida real.
+
+##  Planteamiento del Problema
+En el ámbito educativo, estudiantes y docentes necesitan calcular promedios de notas de forma rápida y precisa. Hacerlo manualmente puede ser tedioso y propenso a errores, especialmente cuando se manejan varias calificaciones.
+
+##  Solución Propuesta
+Se creó una aplicación con *PyQt5* que permite ingresar tres notas a través de una interfaz gráfica sencilla y calcular automáticamente el promedio.  
+La solución facilita el trabajo de estudiantes y docentes, mostrando el resultado de manera inmediata y validando que los datos ingresados sean correctos.
+
+
 
 Explicación del código
 
